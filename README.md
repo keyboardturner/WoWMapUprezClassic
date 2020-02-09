@@ -12,7 +12,7 @@ Last Update:  Patch 1.13.3.32887
 <!-- BFA → Shadowlands Patch: link -->
 <!-- Only install this if you are updating from patch 8.3.0 to 9.0.n -->
 
-Current size estimate of project: nGB
+Current size estimate of project: 1.63GB
 
 Download at your own risk.
 
@@ -20,22 +20,73 @@ So far the project includes:
 <details>
 	<summary>Cities</summary>
 	
-	[PH]
+	DARNASSIS
+	Ironforge
+	Orgrimmar
+	Stormwind
+	ThunderBluff
+	Undercity
+</details>
+<details>
+	<summary>Continents</summary>
+	Azeroth (Eastern Kingdoms)
+	Kalimdor
+	World
 </details>
 <details>
 	<summary>Eastern Kingdoms</summary>
 	
-	[PH]
+	Alterac
+	Arathi
+	Badlands
+	BlastedLands
+	BurningSteppes
+	DeadwindPass
+	DunMorogh
+	Duskwood
+	EasternPlaguelands
+	Elwynn
+	Hilsbrad
+	Hinterlands
+	LochModan
+	Redridge
+	SearingGorge
+	Silverpine
+	Stranglethorn
+	SwampOfSorrows
+	Tirisfal
+	WesternPlaguelands
+	Westfall
+	Wetlands
 </details>
 <details>
 	<summary>Kalimdor</summary>
 	
-	[PH]
+	Ashenvale
+	Aszhara
+	Barrens
+	Darkshore
+	Desolace
+	Durotar
+	Dustwallow
+	Felwood
+	Feralas
+	Kalimdor
+	Moonglade
+	Mulgore
+	Silithus
+	StonetalonMountains
+	Tanaris
+	Teldrassil
+	Thousandneedles
+	Winterspring
 </details>
 <details>
 	<summary>Battle Grounds</summary>
 	
-	[ph]
+	AlteracValley
+	ArathiBasin
+	WarsongGulch
 </details>
 
 Quick Q&A:
