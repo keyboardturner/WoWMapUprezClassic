@@ -29,6 +29,7 @@ So far the project includes:
 </details>
 <details>
 	<summary>Continents</summary>
+	
 	Azeroth (Eastern Kingdoms)
 	Kalimdor
 	World
