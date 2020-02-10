@@ -8,7 +8,7 @@ assignees: keyboardturner
 ---
 
 **Zone Name**
-Exact zone name and possible phasing, [e.g. Zul'Drak]. Keep in mind only [these zones](https://github.com/keyboardturner/WoWMapUprez#contents) are currently supported. Raids, dungeons, and microdungeons (caves) are not planned for this release.
+Exact zone name and possible phasing, [e.g. Zul'Drak]. Keep in mind only [these zones](https://github.com/keyboardturner/WoWMapUprezClassic#contents) are currently supported. Raids, dungeons, and microdungeons (caves) are not planned for this release.
 
 **Screenshots**
 Add screenshots to the specific zone you see the issue.
