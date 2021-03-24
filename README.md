@@ -5,6 +5,8 @@ This project does not include any maps which are already 4k resolution, such as 
 
 [Looking for the WoW Retail version?](https://github.com/keyboardturner/WoWMapUprez)
 
+[Or perhaps TBC Classic?](https://github.com/keyboardturner/WoWMapUprezTBC)
+
 Last Update:  Patch 1.13.3.32887
 
 <!-- What's new in Shadowlands Patch 9.0.n? -->
@@ -152,3 +154,5 @@ Q: "Do you work for Blizzard?"
 [Twitter](https://twitter.com/keyboardturn)
 
 I admin the [WoW AddOn Discord](http://discord.gg/sXy46yZ)
+
+Also I got around to making a [Patreon](https://www.patreon.com/keyboardturner)
