@@ -27,7 +27,7 @@ Download at your own risk.
 # Installation:
 
 1. At the project page, click `Clone or download` and select `Download ZIP`. It may take a while to download because it's very big (It's about 551MB compressed / download).
-2. When the file is finished downloading, find the `_classic_` directory and open it.
+2. When the file is finished downloading, find the `_classic_era_` directory and open it.
 3. When you open the .zip file, it may have `WoWMapUprezClassic-master`. Inside that should have the contents `Interface` and a `README.md`.
 4. Simply drag-drop to merge the `interface` folder in your WoW folder and replace the currently existing one. Below is a gif showing what is done.
 
@@ -39,7 +39,7 @@ If you've followed these steps, it should be done! Changes will take restarting 
 
 # Uninstalling:
 
-1. In the same `...\World of Warcraft\_classic_\Interface\` directory, delete `Worldmap`. Easy.
+1. In the same `...\World of Warcraft\_classic_era_\Interface\` directory, delete `Worldmap`. Easy.
 
 # Bug Reporting:
 
